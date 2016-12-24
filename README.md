@@ -5,3 +5,5 @@ StateBasedGameJS is a simple framework to create state based games in javascript
 This framework provides a main file `game.js` which handles all the logic for creating and managing the game states and for the rendering and updating of the game logic.
 
 Any number of game states can be added to the game and as long as they implement the required functions from Game.js they will work with the game. 
+
+For an example of a working game using this framework, check out my clone of [Space Invaders](https://github.com/David29595/SpaceInvadersJS)
